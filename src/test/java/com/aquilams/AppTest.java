@@ -1,4 +1,4 @@
-package org.example;
+package com.aquilams;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
